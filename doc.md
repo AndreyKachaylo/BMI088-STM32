@@ -31,7 +31,7 @@ Roll:  XXX.XX deg
 AccelX:  +0.01 g
 AccelY:  -0.02 g
 AccelZ:  -1.00 g
-Tip: Tilt to map xyz
+
 GyCal RUN
 Elapsed  2.3s
 Samples   023
