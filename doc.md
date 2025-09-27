@@ -38,7 +38,6 @@ Samples   023
 BiasX +0.0012
 BiasY -0.0008
 BiasZ +0.0005
-Copy to board_hw
 ```
 
 The serial console mirrors the same numbers and adds the accelerometer values in
